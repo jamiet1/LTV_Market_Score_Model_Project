@@ -13,7 +13,7 @@ This model is built for **Metro Los Angeles**, covering ZIPs in:
 - Riverside County  
 - San Bernardino County
 
-=============================================================
+=============================================================================================
 ## Original Data Sources
 
 1. **Redfin ZIP Code Market Tracker**  
