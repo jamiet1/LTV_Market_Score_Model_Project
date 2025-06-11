@@ -17,9 +17,18 @@ The analysis draws on housing market data spanning from 2017 through 2024, and i
 porates median income estimates from the U.S. Census 2023 ACS 5-Year dataset, which
 reflects income conditions during 2022–2023.
 
-- View the project website here:  https://sites.google.com/g.ucla.edu/ltv-market-score-model-project/home  
+- View the project website here:  https://sites.google.com/g.ucla.edu/ltv-market-score-model-project/home
 
-=============================================================================================
+----
+
+## Preview
+
+<div class='tableauPlaceholder' id='viz1749660439542' style='position: relative'><noscript><a href='#'><img alt='Average Market Score by ZIP Code ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17496090889100&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17496090889100&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17496090889100&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+
+<div class='tableauPlaceholder' id='viz1749660706404' style='position: relative'><noscript><a href='#'><img alt='Max LTV by ZIP Code ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book5_17496606840990&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book5_17496606840990&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book5_17496606840990&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
+----
+
 ## Original Data Sources
 
 1. **Redfin ZIP Code Market Tracker**  
@@ -29,6 +38,8 @@ reflects income conditions during 2022–2023.
 2. **Census Median Income Data**  
    - URL: [Census Table B06011](https://data.census.gov/table/ACSDT5Y2023.B06011?q=B06011:+Median+Income+in+the+Past+12+Months+(in+2023+Inflation-Adjusted+Dollars)+by+Place+of+Birth+in+the+United+States&g=040XX00US06$8600000)  
    - Used for: Median household income by ZIP
+
+----
 
 ## Methodology
 
@@ -55,6 +66,8 @@ These metrics are ranked across ZIPs and combined with the following weights:
 
 - Final LTV is capped between **60% and 75%**
 - Default base LTV is **70%**
+
+----
 
 ## Output
 
