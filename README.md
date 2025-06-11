@@ -17,9 +17,9 @@ The analysis draws on housing market data spanning from 2017 through 2024, and i
 porates median income estimates from the U.S. Census 2023 ACS 5-Year dataset, which
 reflects income conditions during 2022–2023.
 
-View the full project paper here:
+View the full project report here:
 
-[LTV Market Score Model Report](./LTV_Market_Score_Model_Report.pdf)
+[LTV Market Score Model Report](./LTV_Market_Score_Model_Project_Report.pdf)
 
 =============================================================================================
 ## Original Data Sources
