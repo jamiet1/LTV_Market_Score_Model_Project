@@ -13,9 +13,7 @@ This model is built for **Metro Los Angeles**, covering ZIPs in:
 - Riverside County  
 - San Bernardino County
 
-The analysis draws on housing market data spanning from 2017 through 2024, and incor-
-porates median income estimates from the U.S. Census 2023 ACS 5-Year dataset, which
-reflects income conditions during 2022–2023.
+The analysis draws on housing market data spanning from 2017 through 2024, and incorporates median income estimates from the U.S. Census 2023 ACS 5-Year dataset, which reflects income conditions during 2022–2023.
 
 - View the project website here:  https://sites.google.com/g.ucla.edu/ltv-market-score-model-project/home
 
